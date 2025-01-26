@@ -16,7 +16,7 @@ TOKEN = "7857492751:AAGsD_ivlivrkalri1l4T9kqf-1vgIiiqC8"
 # Подключение к базе данных
 con = sqlite3.connect("main.db")
 cur = con.cursor()
-cur.execute("CREATE TABLE IF NOT EXISTS user_data(id INTEGER PRIMARY KEY, name TEXT, age INTEGER)")
+cur.execute("CREATE TABLE IF NOT EXISTS user_data(id INTEGER PRIMARY KEY, name TEXT, last_name TEXT)")
 
 # Инициализация диспетчера
 dp = Dispatcher()
