@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bf716c2e-3292-439d-b72b-7f57aa079c47" name="Changes" comment="Создание базы данных">
+    <list default="true" id="bf716c2e-3292-439d-b72b-7f57aa079c47" name="Changes" comment="Доработка под самую новую версию aiogram">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.db" beforeDir="false" afterPath="$PROJECT_DIR$/main.db" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -82,7 +83,23 @@
       <option name="project" value="LOCAL" />
       <updated>1737901010575</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Доработка под самую новую версию aiogram">
+      <option name="closed" value="true" />
+      <created>1737902894100</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1737902894100</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Доработка под самую новую версию aiogram">
+      <option name="closed" value="true" />
+      <created>1737902898522</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1737902898522</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -100,6 +117,7 @@
     <MESSAGE value="JJJJ" />
     <MESSAGE value="Добавление команды /start" />
     <MESSAGE value="Создание базы данных" />
-    <option name="LAST_COMMIT_MESSAGE" value="Создание базы данных" />
+    <MESSAGE value="Доработка под самую новую версию aiogram" />
+    <option name="LAST_COMMIT_MESSAGE" value="Доработка под самую новую версию aiogram" />
   </component>
 </project>
